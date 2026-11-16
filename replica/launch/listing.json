@@ -1,0 +1,21 @@
+{
+  "avoid": [
+    "Wanderlust",
+    "Wanderlust Media",
+    "Wanderlust 108",
+    "Wanderlust TV"
+  ],
+  "app_store": {
+    "name": "Anvi Living: Yoga & Thien",
+    "subtitle": "Loi song mindful va an yen",
+    "promotional_text": "Kham pha le hoi the thao chanh niem Anvi 108 tai Da Lat cung cac bai tap yoga tri lieu vai gay va thien chuong xoay moi ngay.",
+    "description": "Anvi Living mang đen khong gian luyen tap yoga va thien đinh giup ban tim ve su can bang than tam.\n\nCac tinh nang noi bat:\n- Kho video bai tap truc tuyen tu 15 đen 60 phut theo nhieu truong phai (Vinyasa, Yin Yoga, Thien đinh, Breathwork)\n- Huong dan truc tiep boi doi ngu huan luyen vien tam huyet (Thuan Hoang, Thuy Giang, Bich Hue)\n- Cap nhat lich trinh le hoi the thao chanh niem Anvi 108 va cac ky nghi duong retreats toan quoc\n- Quan ly ve dien tu co ma QR de dang check-in tai su kien\n- Chinh sach thanh toan minh bach, huy goi de dang chi voi 1 cu nhap chuot",
+    "keywords": "suc khoe,chay bo,retreat,breathwork,tri lieu,chuong xoay,song cham,giai toa,thao moc",
+    "whats_new": "Cap nhat lich trinh le hoi Anvi 108 Da Lat va bo sung bai tap phuc hoi cot song."
+  },
+  "google_play": {
+    "title": "Anvi Living: Yoga & Thien",
+    "short_description": "Thuc hanh yoga, thien đinh va tham gia le hoi the thao chanh niem cung Anvi.",
+    "full_description": "Anvi Living mang đen khong gian luyen tap yoga va thien đinh giup ban tim ve su can bang than tam.\n\nCac tinh nang noi bat:\n- Kho video bai tap truc tuyen tu 15 đen 60 phut theo nhieu truong phai\n- Huong dan truc tiep boi doi ngu huan luyen vien tam huyet (Thuan Hoang, Thuy Giang, Bich Hue)\n- Cap nhat lich trinh le hoi the thao chanh niem Anvi 108\n- Quan ly ve dien tu co ma QR de dang check-in tai su kien\n- Chinh sach thanh toan minh bach"
+  }
+}

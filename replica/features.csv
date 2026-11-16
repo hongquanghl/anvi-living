@@ -1,0 +1,24 @@
+feature,area,priority,original,clone,notes
+Homepage Hero & Brand Showcase,marketing,must,yes,yes,Đã dựng S01 với Hero video/ambient manifesto 4 trụ cột
+Global Navigation & Submenu,navigation,must,yes,yes,Đã dựng Navbar tiếng Việt kèm giỏ hàng và tài khoản
+Event Discovery & Listing,events,must,yes,yes,Đã dựng S02 lọc theo địa điểm và thể loại
+Event Detail & Ticket Selection,events,must,yes,yes,Đã dựng S03 với lineup lịch trình và chọn hạng vé
+Event Ticket Checkout & Confirmation,events,must,yes,yes,Tích hợp vào CartDrawer tính tiền và lưu giỏ
+Wanderlust TV Video Catalog,tv,must,yes,yes,Đã dựng S04 phân loại video theo phong cách yoga
+Video Player & Class Experience,tv,must,yes,yes,Đã dựng Video Modal player xem trực tiếp
+User Authentication & Profiles,auth,must,yes,yes,Đã dựng trang tài khoản cá nhân S11 kèm hồ sơ và Supabase auth
+Editorial / Journal Article Feed,editorial,must,yes,yes,Đã dựng S06 với tìm kiếm và lọc chuyên mục
+Article Reader & Reading Mode,editorial,must,yes,yes,Hiển thị typography chuẩn bài viết
+Product Catalog & Collection View,shop,must,yes,yes,Đã dựng S08 danh mục thảm và thảo mộc
+Product Detail Page (PDP),shop,must,yes,yes,Hiển thị chi tiết và thêm vào giỏ
+Cart & Slide-over Drawer,shop,must,yes,yes,Đã dựng CartDrawer slide-over toàn trang
+Newsletter / Lead Capture,marketing,must,yes,yes,Đã dựng Form đăng ký bản tin ở Footer
+Membership / Subscription Plan (Wanderlust TV Pass),tv,should,yes,yes,Banner ưu đãi hội viên dùng thử 14 ngày
+Instructor / Talent Directory,community,should,yes,yes,Hiển thị đội ngũ huấn luyện viên
+User Saved Bookmarks / Watchlist,tv,should,yes,yes,Tích hợp trong tab Bài tập đã lưu tại /account
+Search Overlay / Modal,navigation,should,yes,yes,Tích hợp tìm kiếm trực tiếp trong Journal và Navbar
+Order History & Ticket Wallet,account,should,yes,yes,Ví vé điện tử QR Code và lịch sử đơn hàng tại /account
+Customer Reviews & Testimonials,social proof,could,yes,yes,Đánh giá sao trên sản phẩm
+Offline Video Downloads,tv,could,yes,skip,Thuộc native mobile app
+Third-party Sponsor Activations & Brand Deals,business,could,yes,skip,Mạng lưới tài trợ không thể clone
+Wanderlust Licensed Audio / Music Catalog,content,could,yes,skip,Bản quyền âm nhạc riêng

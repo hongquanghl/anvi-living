@@ -1,0 +1,17 @@
+{
+  "name": "Anvi Living",
+  "avoid": [
+    "Wanderlust",
+    "Wanderlust Media",
+    "Wanderlust 108",
+    "Wanderlust TV"
+  ],
+  "domains": [
+    "wanderlust.com",
+    "wanderlust.tv"
+  ],
+  "colors": [
+    "#006bff",
+    "#00a896"
+  ]
+}
